@@ -45,7 +45,7 @@
     nvidia-smi
     ```
     
-    ![Untitled](Anaconda%2062861/Untitled.png)
+    ![Untitled](/Anaconda1/Untitled.png)
     
 
 - Pytorch
