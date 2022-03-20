@@ -59,15 +59,3 @@
     
     [](https://www.bilibili.com/video/BV1qh411U73y?p=1)
     
-
-[FastRCNN](https://www.notion.so/FastRCNN-fd98f856da034015a5bf9949916ff755)
-
-[YOLOv5](https://www.notion.so/YOLOv5-4be032dc752e49c59fea2df9523b8a92)
-
-[YOLOv4](https://www.notion.so/YOLOv4-d9d03591ca324ea89ce46ce24ad3e6f6)
-
-[YOLOv3](https://www.notion.so/YOLOv3-42323d5c9e5c4e9b889756aafe5e1200)
-
-[Keras](https://www.notion.so/Keras-4445598c06764fe2b9f0d308a9085e61)
-
-[labelimg](https://www.notion.so/labelimg-c69ada0651bf4ddfb7d2411610b0934c)
