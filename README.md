@@ -39,7 +39,7 @@
     
 - CUDA安裝教學
     
-    [](https://zhuanlan.zhihu.com/p/147154972)
+    [安裝教學](https://zhuanlan.zhihu.com/p/147154972)
     
     ```bash
     nvidia-smi
