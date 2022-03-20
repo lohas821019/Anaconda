@@ -55,7 +55,6 @@
     print(torch.__version__)
     ```
     
-    Pytorch 漢化教學
     
-    [](https://www.bilibili.com/video/BV1qh411U73y?p=1)
+    [Pytorch 中文教學](https://www.bilibili.com/video/BV1qh411U73y?p=1)
     
